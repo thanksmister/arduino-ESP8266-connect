@@ -31,6 +31,11 @@ const char* password = "Esp8266Test"; // has to be longer than 7 chars
 
 You can connect to the access point from your computer or mobile device and then send commands using a browser.  Once you have successfully connected to the access point Esp8266TestNet, enter "http://192.168.4.1/led/0" to turn off the LED light and "http://192.168.4.1/led/1" to turn the LED light on.  Notice the server address is 192.168.4.1. 
 
+The access point will return a HTTP 200 response along with a JSON result with success and off/on value received: 
+
+```
+{"data":{"message":"success", "value":"off"}} 
+```
 
 You can connect to the access point from your computer or mobile device and then send commands using a browser.  Once you have successfully connected to the access point Esp8266TestNet, enter "http://192.168.4.1/led/0" to turn off the LED light and "http://192.168.4.1/led/1" to turn the LED light on. Notice the server address is 192.168.4.1. 
 
