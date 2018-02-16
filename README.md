@@ -16,7 +16,7 @@ This Arduino project creates a shared access point for an ESP8266 WiFi module wh
 
 Download the open the Arduino file in the Arduino IDE.  Be sure you have the ESP8266 library installed.  Compile and deploy to your Feather using the USB cable.  The default access point name is Esp8266TestNet (it's hidden) and the password is Esp8266Test.  These can be changed in the Arduino file.   
 
-You can connect to the access point with your computer or mobile device and then send commands using just a browser. Type http://192.168.4.1/led/0 to turn off the LED light and http://192.168.4.1/led/1 to turn the LED light on.   You can also use the companion Android application to communicate with the ESP8266 module. 
+You can connect to the access point with your computer or mobile device and then send commands using just a browser. Type http://192.168.4.1/led/0 to turn off the LED light and http://192.168.4.1/led/1 to turn the LED light on.   You can also use the companion Android application to communicate with the ESP8266 module from you Android device. 
 
 # Fritzing Diagram
 
