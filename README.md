@@ -1,6 +1,6 @@
 # Arduino ESP8266 Connect
 
-Arduino project for creating a shared access point for ESP8266 WiFi module that allows connections from an [accompanying Android application](https://github.com/thanksmister/android-esp8266-connect).
+This Arduino project creates a shared access point for an ESP8266 WiFi module which allows the accompanying [Android application](https://github.com/thanksmister/android-esp8266-connect) to connect and send commands.
 
 # Hardware Requirements
 - [Adafruit Feather HUZZAH with ESP8266 WiFi](https://www.adafruit.com/product/2821)
