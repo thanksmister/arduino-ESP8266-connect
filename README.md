@@ -6,7 +6,6 @@ This Arduino project creates a shared access point using an ESP8266 WiFi module 
 - [Adafruit Feather HUZZAH with ESP8266 WiFi](https://www.adafruit.com/product/2821)
 - LED light
 - 1k Resistor
-- 
 
 # Software Requirements
 
@@ -37,6 +36,10 @@ You can connect to the access point from your computer or mobile device and then
 
 # Android Application Setup 
 
-You can use the companion [Android application](https://github.com/thanksmister/android-esp8266-connect) to communicate with the ESP8266 module from your Android device.   Download the APK file from the Android Github repository release section and side load onto your mobile device.   If you wish to, you can also checkout the Github repository and build the APK file using Android Studio. 
+You can use the companion [Android application](https://github.com/thanksmister/android-esp8266-connect) to communicate with the ESP8266 module from your Android device.   Download the APK file from the Android Github repository release section and side load onto your mobile device. If you wish to, you can also checkout the Github repository and build the APK file using Android Studio. 
+
+Open the installed application on your device and select the "Connect" button.  This will connect to the access point with the default name and password.  If you wish to change these, you can do so under the settings from the drop down menu.  
+
+Once you connect, you can use the "Send" buttons below the values to toggle on/off the LED light. Use the "Disconnect" button to disconnect from the access point and return reconnect to your previous WiFi connection.  
 
 
