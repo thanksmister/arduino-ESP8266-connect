@@ -5,7 +5,7 @@ This Arduino project creates a shared access point using an ESP8266 WiFi module 
 # Hardware Requirements
 - [Adafruit Feather HUZZAH with ESP8266 WiFi](https://www.adafruit.com/product/2821)
 - LED light
-- 1k Ohm Resister
+- 1k Resistor
 
 # Software Requirements
 
