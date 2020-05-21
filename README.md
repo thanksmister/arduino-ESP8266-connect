@@ -4,6 +4,8 @@ This Arduino project creates a WiFi access point using an ESP8266 WiFi module wh
 
 [Hackster Project](https://www.hackster.io/thanksmister/android-to-esp8266-comunication-a84f50)
 
+You can also join the [ThanksMister Community](https://community.thanksmister.com/) to ask questions or share any helpful information about this project. 
+
 # Hardware Requirements
 - [Adafruit Feather HUZZAH with ESP8266 WiFi](https://www.adafruit.com/product/2821)
 - LED light
